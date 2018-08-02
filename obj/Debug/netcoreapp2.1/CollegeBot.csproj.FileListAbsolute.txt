@@ -1,0 +1,14 @@
+/home/tarun/work/CollegeBot/bin/Debug/netcoreapp2.1/CollegeBot.deps.json
+/home/tarun/work/CollegeBot/bin/Debug/netcoreapp2.1/CollegeBot.runtimeconfig.json
+/home/tarun/work/CollegeBot/bin/Debug/netcoreapp2.1/CollegeBot.runtimeconfig.dev.json
+/home/tarun/work/CollegeBot/bin/Debug/netcoreapp2.1/CollegeBot.dll
+/home/tarun/work/CollegeBot/bin/Debug/netcoreapp2.1/CollegeBot.pdb
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.csprojAssemblyReference.cache
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.csproj.CoreCompileInputs.cache
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.RazorAssemblyInfo.cache
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.RazorAssemblyInfo.cs
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.AssemblyInfoInputs.cache
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.AssemblyInfo.cs
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.RazorTargetAssemblyInfo.cache
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.dll
+/home/tarun/work/CollegeBot/obj/Debug/netcoreapp2.1/CollegeBot.pdb
